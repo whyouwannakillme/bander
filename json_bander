@@ -1,0 +1,14 @@
+#!/usr/bin/python3
+import json
+list_json = open('for_loop_json').read().splitlines()
+#for line in list_json:
+#       print(line)
+
+for name in list_json:
+        with open('json/'+str(name),'r') as f:
+                test_json = json.load(f)
+                for d in test_json["releases"]:
+                #print(test_json["releases"][d])
+                        a = test_json["releases"][d]
+                        for i in a:
+                                print(i['size'])

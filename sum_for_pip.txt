@@ -1,0 +1,29 @@
+#! /usr/bin/python3.6
+
+import json
+import os
+#from hurry.filesize import size
+
+path = "C:/Users/Isaychev1-da/"
+itogo = 0
+list_of_size = []
+def sum_for_pip(name):
+    path_to_json = path + name
+    if os.path.exists(path_to_json):
+        #summary = json.load(open(path_to_json, 'r'))['releases']['1.0'][0]['size']
+        summary = json.load(open(path_to_json, 'r'))['releases']
+        for i in summary:
+                a = summary[i]
+                #print(i,a[0])
+                try: list_of_size.append(a[0]['size'])
+                except:
+                    continue
+                try: list_of_size.append(a[1]['size'])
+                except:
+                    continue
+                itogo = sum(list_of_size)
+        print(itogo)
+    else: print("Don't exists")
+
+if __name__ == '__main__':
+    sum_for_pip("ansible")

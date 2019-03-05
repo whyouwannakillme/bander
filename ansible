@@ -1,0 +1,1815 @@
+{
+    "info": {
+        "_pypi_hidden": false,
+        "_pypi_ordering": 81,
+        "author": "Ansible, Inc.",
+        "author_email": "info@ansible.com",
+        "bugtrack_url": "http://github.com/ansible/ansible/",
+        "cheesecake_code_kwalitee_id": null,
+        "cheesecake_documentation_id": null,
+        "cheesecake_installability_id": null,
+        "classifiers": [
+            "Development Status :: 5 - Production/Stable",
+            "Environment :: Console",
+            "Intended Audience :: Developers",
+            "Intended Audience :: Information Technology",
+            "Intended Audience :: System Administrators",
+            "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+            "Natural Language :: English",
+            "Operating System :: POSIX",
+            "Programming Language :: Python :: 2.6",
+            "Programming Language :: Python :: 2.7",
+            "Topic :: System :: Installation/Setup",
+            "Topic :: System :: Systems Administration",
+            "Topic :: Utilities"
+        ],
+        "description": "",
+        "docs_url": null,
+        "download_url": "",
+        "downloads": {
+            "last_day": 0,
+            "last_month": 0,
+            "last_week": 0
+        },
+        "home_page": "https://ansible.com/",
+        "keywords": "",
+        "license": "GPLv3+",
+        "maintainer": "",
+        "maintainer_email": "",
+        "name": "ansible",
+        "package_url": "http://pypi.python.org/pypi/ansible",
+        "platform": "",
+        "release_url": "http://pypi.python.org/pypi/ansible/2.5.0",
+        "requires_python": "",
+        "summary": "Radically simple IT automation",
+        "version": "2.5.0"
+    },
+    "releases": {
+        "1.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "03d9ebc5a830642bd25f0eef6382a27c",
+                    "sha256": "f5e6ee589ae78e81bf10bd1fb743d0a091ae3f6f338fd87a9a4070f8c2878601"
+                },
+                "downloads": 5192,
+                "filename": "ansible-1.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "03d9ebc5a830642bd25f0eef6382a27c",
+                "packagetype": "sdist",
+                "path": "b6/bd/f463a82c46596e73ebd8bd98f080d7bdd2d69af0a121b5fbf74d9bd41ad9/ansible-1.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "f5e6ee589ae78e81bf10bd1fb743d0a091ae3f6f338fd87a9a4070f8c2878601",
+                "size": 222956,
+                "upload_time": "2013-02-12T02:09:30",
+                "url": "https://pypi.python.org/packages/b6/bd/f463a82c46596e73ebd8bd98f080d7bdd2d69af0a121b5fbf74d9bd41ad9/ansible-1.0.tar.gz"
+            }
+        ],
+        "1.1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "29059e7738212392d7c23db8c8f91019",
+                    "sha256": "5e7d2a46715484abcd2f59f846fb12699d64b420400cca4224ae6ec358f2d0a1"
+                },
+                "downloads": 9488,
+                "filename": "ansible-1.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "29059e7738212392d7c23db8c8f91019",
+                "packagetype": "sdist",
+                "path": "0d/2e/0310daffa68b57a904b0c0b13cddab2a2b3d4a0c09d390f14f7de45a0444/ansible-1.1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "5e7d2a46715484abcd2f59f846fb12699d64b420400cca4224ae6ec358f2d0a1",
+                "size": 302115,
+                "upload_time": "2013-04-03T01:00:42",
+                "url": "https://pypi.python.org/packages/0d/2e/0310daffa68b57a904b0c0b13cddab2a2b3d4a0c09d390f14f7de45a0444/ansible-1.1.tar.gz"
+            }
+        ],
+        "1.2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "e1924c5f75a06dc49664e0e9b8f81fa0",
+                    "sha256": "1fb5c697b814c8b4fc4a0dd29cdb09fab190a248e8bedb5ddbf2a1283cabb911"
+                },
+                "downloads": 7363,
+                "filename": "ansible-1.2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "e1924c5f75a06dc49664e0e9b8f81fa0",
+                "packagetype": "sdist",
+                "path": "e9/b0/ac34d0cf1182005b9cb36f76dbe0536294bed617a01b243cade9f58d5a3e/ansible-1.2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "1fb5c697b814c8b4fc4a0dd29cdb09fab190a248e8bedb5ddbf2a1283cabb911",
+                "size": 363739,
+                "upload_time": "2013-06-10T21:34:37",
+                "url": "https://pypi.python.org/packages/e9/b0/ac34d0cf1182005b9cb36f76dbe0536294bed617a01b243cade9f58d5a3e/ansible-1.2.tar.gz"
+            }
+        ],
+        "1.2.1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "486537f718b778cf36a8dba8e7a8c8a8",
+                    "sha256": "8a3f33253887f14d55cbe3cfb1c7c034a283c04f22f85da642d94e9139f18aa4"
+                },
+                "downloads": 2903,
+                "filename": "ansible-1.2.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "486537f718b778cf36a8dba8e7a8c8a8",
+                "packagetype": "sdist",
+                "path": "5e/a9/48293bf83cf48e76c0e8d1d8241285c968c11adc340ab756802ab7c433c0/ansible-1.2.1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "8a3f33253887f14d55cbe3cfb1c7c034a283c04f22f85da642d94e9139f18aa4",
+                "size": 363571,
+                "upload_time": "2013-07-05T14:32:12",
+                "url": "https://pypi.python.org/packages/5e/a9/48293bf83cf48e76c0e8d1d8241285c968c11adc340ab756802ab7c433c0/ansible-1.2.1.tar.gz"
+            }
+        ],
+        "1.2.2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "f5dce3d4bf61cbcd2b097c5874431f29",
+                    "sha256": "a6b734ae986f99f6291b4e0a92b3729298dd39a6640243070d2ef586aaae8b23"
+                },
+                "downloads": 12917,
+                "filename": "ansible-1.2.2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "f5dce3d4bf61cbcd2b097c5874431f29",
+                "packagetype": "sdist",
+                "path": "12/a3/7b340e274cd3e6538b55e59ee15a5b82e445ee388553cda216206dd6df7c/ansible-1.2.2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "a6b734ae986f99f6291b4e0a92b3729298dd39a6640243070d2ef586aaae8b23",
+                "size": 363852,
+                "upload_time": "2013-07-06T02:02:43",
+                "url": "https://pypi.python.org/packages/12/a3/7b340e274cd3e6538b55e59ee15a5b82e445ee388553cda216206dd6df7c/ansible-1.2.2.tar.gz"
+            }
+        ],
+        "1.2.3": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "61aef50c636bb1b4d356a32ddae30884",
+                    "sha256": "0f12d180978e73dbb85bb224f73e8dd4e0e8b7d5bbca01719a93427405208c63"
+                },
+                "downloads": 8234,
+                "filename": "ansible-1.2.3.tar.gz",
+                "has_sig": false,
+                "md5_digest": "61aef50c636bb1b4d356a32ddae30884",
+                "packagetype": "sdist",
+                "path": "84/12/f05b1f28e8f13f53cc525a5e51651e0f5f9152f1687302e4483792bd5bef/ansible-1.2.3.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "0f12d180978e73dbb85bb224f73e8dd4e0e8b7d5bbca01719a93427405208c63",
+                "size": 359958,
+                "upload_time": "2013-08-22T02:49:19",
+                "url": "https://pypi.python.org/packages/84/12/f05b1f28e8f13f53cc525a5e51651e0f5f9152f1687302e4483792bd5bef/ansible-1.2.3.tar.gz"
+            }
+        ],
+        "1.3.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "0a36fe36226fa2c2bd86dc831990bcd4",
+                    "sha256": "876d9eb8a8ae6e4ff943eb956c46e83d53e56ac6fb7890f83a23c3cc10508864"
+                },
+                "downloads": 3983,
+                "filename": "ansible-1.3.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "0a36fe36226fa2c2bd86dc831990bcd4",
+                "packagetype": "sdist",
+                "path": "a2/ff/73c8d8460f21f4d0c5ad32e2a19e46fbaa25f9759f96696449ae73fe0477/ansible-1.3.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "876d9eb8a8ae6e4ff943eb956c46e83d53e56ac6fb7890f83a23c3cc10508864",
+                "size": 448223,
+                "upload_time": "2013-09-15T20:45:41",
+                "url": "https://pypi.python.org/packages/a2/ff/73c8d8460f21f4d0c5ad32e2a19e46fbaa25f9759f96696449ae73fe0477/ansible-1.3.0.tar.gz"
+            }
+        ],
+        "1.3.1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "e054d28fa75372e9b26a6c3b265811fb",
+                    "sha256": "19b001e45c934fe4c7fb055ef8d97afadf060c877b49bad7181c3edc1e3acb7b"
+                },
+                "downloads": 4382,
+                "filename": "ansible-1.3.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "e054d28fa75372e9b26a6c3b265811fb",
+                "packagetype": "sdist",
+                "path": "dc/d2/7cfc153b10a4d94a7031e17e5e5c8d19237cb66ca0e40ae7d229e15ac2f5/ansible-1.3.1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "19b001e45c934fe4c7fb055ef8d97afadf060c877b49bad7181c3edc1e3acb7b",
+                "size": 374720,
+                "upload_time": "2013-09-17T22:47:45",
+                "url": "https://pypi.python.org/packages/dc/d2/7cfc153b10a4d94a7031e17e5e5c8d19237cb66ca0e40ae7d229e15ac2f5/ansible-1.3.1.tar.gz"
+            }
+        ],
+        "1.3.2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "da7b37227e69884db4ae3304e47dbab0",
+                    "sha256": "c245061d41986a2756b144933bbd55348ab3ee912b9b30539dcaca4f7e77a0fb"
+                },
+                "downloads": 12005,
+                "filename": "ansible-1.3.2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "da7b37227e69884db4ae3304e47dbab0",
+                "packagetype": "sdist",
+                "path": "92/74/9ee517af77aa5445f638f8c39a469e36928a2c27333ec7440a53591a99cc/ansible-1.3.2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "c245061d41986a2756b144933bbd55348ab3ee912b9b30539dcaca4f7e77a0fb",
+                "size": 375276,
+                "upload_time": "2013-09-23T22:14:29",
+                "url": "https://pypi.python.org/packages/92/74/9ee517af77aa5445f638f8c39a469e36928a2c27333ec7440a53591a99cc/ansible-1.3.2.tar.gz"
+            }
+        ],
+        "1.3.3": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "cbbc7818a89076e8ece54be1650008f0",
+                    "sha256": "c38994c18c8cecfcb2b0d9a23f943b66707baca50dd80030592234b7e91403fc"
+                },
+                "downloads": 12712,
+                "filename": "ansible-1.3.3.tar.gz",
+                "has_sig": false,
+                "md5_digest": "cbbc7818a89076e8ece54be1650008f0",
+                "packagetype": "sdist",
+                "path": "fb/ce/3af0d73bde2c4cdd5879a0d58967e0e09c9c4a76633ba53d7939148dcfa5/ansible-1.3.3.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "c38994c18c8cecfcb2b0d9a23f943b66707baca50dd80030592234b7e91403fc",
+                "size": 447423,
+                "upload_time": "2013-10-08T22:29:43",
+                "url": "https://pypi.python.org/packages/fb/ce/3af0d73bde2c4cdd5879a0d58967e0e09c9c4a76633ba53d7939148dcfa5/ansible-1.3.3.tar.gz"
+            }
+        ],
+        "1.3.4": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "d3cb1bfcaf685f5de14a57c113d769c3",
+                    "sha256": "703ab03147f034dbc203c71f05f1a4fdb933942f68ff1af3dd301a6497581968"
+                },
+                "downloads": 7894,
+                "filename": "ansible-1.3.4.tar.gz",
+                "has_sig": false,
+                "md5_digest": "d3cb1bfcaf685f5de14a57c113d769c3",
+                "packagetype": "sdist",
+                "path": "df/b2/c9c817c0ce4b975f5199db93de3960864c48b375565523b0e542cdf12e64/ansible-1.3.4.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "703ab03147f034dbc203c71f05f1a4fdb933942f68ff1af3dd301a6497581968",
+                "size": 447608,
+                "upload_time": "2013-11-05T02:45:50",
+                "url": "https://pypi.python.org/packages/df/b2/c9c817c0ce4b975f5199db93de3960864c48b375565523b0e542cdf12e64/ansible-1.3.4.tar.gz"
+            }
+        ],
+        "1.4": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "2e4112c568ed219462ec806c92d1e12c",
+                    "sha256": "7d38d8a1db20e539f146edda97f212e86fe2906384da92a219fe9678009608d5"
+                },
+                "downloads": 8132,
+                "filename": "ansible-1.4.tar.gz",
+                "has_sig": false,
+                "md5_digest": "2e4112c568ed219462ec806c92d1e12c",
+                "packagetype": "sdist",
+                "path": "d6/68/91b6c9cc0856a289f76dd96b6b71a54be18f01411d3241233a62648e49f1/ansible-1.4.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "7d38d8a1db20e539f146edda97f212e86fe2906384da92a219fe9678009608d5",
+                "size": 570935,
+                "upload_time": "2013-11-21T20:46:00",
+                "url": "https://pypi.python.org/packages/d6/68/91b6c9cc0856a289f76dd96b6b71a54be18f01411d3241233a62648e49f1/ansible-1.4.tar.gz"
+            }
+        ],
+        "1.4.1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "f6773403ab29ae5e7f4049abc4aea1d2",
+                    "sha256": "bfd1bbf96b4802a4302262e10374c6c400a3394d4dfd6ef6a8f3f7cad77b7ac9"
+                },
+                "downloads": 11328,
+                "filename": "ansible-1.4.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "f6773403ab29ae5e7f4049abc4aea1d2",
+                "packagetype": "sdist",
+                "path": "ab/33/58a99082f36966d6e86affdc0fc939c96438cb0368e87611d1e6a75e1e8e/ansible-1.4.1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "bfd1bbf96b4802a4302262e10374c6c400a3394d4dfd6ef6a8f3f7cad77b7ac9",
+                "size": 571296,
+                "upload_time": "2013-11-27T23:28:18",
+                "url": "https://pypi.python.org/packages/ab/33/58a99082f36966d6e86affdc0fc939c96438cb0368e87611d1e6a75e1e8e/ansible-1.4.1.tar.gz"
+            }
+        ],
+        "1.4.2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "874ca10061568821652a3a5f7c462ee8",
+                    "sha256": "5722ff53a4cfc7f7344988f9fb4904d896edb8c34dbff7e7a8e430d30ed0e139"
+                },
+                "downloads": 3849,
+                "filename": "ansible-1.4.2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "874ca10061568821652a3a5f7c462ee8",
+                "packagetype": "sdist",
+                "path": "0b/2d/0e4d97d250c2f90028f96e448094e901235d39d3802898146b3d74608f9b/ansible-1.4.2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "5722ff53a4cfc7f7344988f9fb4904d896edb8c34dbff7e7a8e430d30ed0e139",
+                "size": 578025,
+                "upload_time": "2013-12-19T01:47:28",
+                "url": "https://pypi.python.org/packages/0b/2d/0e4d97d250c2f90028f96e448094e901235d39d3802898146b3d74608f9b/ansible-1.4.2.tar.gz"
+            }
+        ],
+        "1.4.3": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "e9c78a97204607e09d199e7259060938",
+                    "sha256": "899e52f206fc28a77d959cecab36ce883d1a11524f3fa189e261cd86d74d5bb6"
+                },
+                "downloads": 8817,
+                "filename": "ansible-1.4.3.tar.gz",
+                "has_sig": false,
+                "md5_digest": "e9c78a97204607e09d199e7259060938",
+                "packagetype": "sdist",
+                "path": "06/5a/ce17cddb6fc0859a5be42fd387eba379626ae550fcd80e7d74c586284d54/ansible-1.4.3.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "899e52f206fc28a77d959cecab36ce883d1a11524f3fa189e261cd86d74d5bb6",
+                "size": 578665,
+                "upload_time": "2013-12-20T19:28:44",
+                "url": "https://pypi.python.org/packages/06/5a/ce17cddb6fc0859a5be42fd387eba379626ae550fcd80e7d74c586284d54/ansible-1.4.3.tar.gz"
+            }
+        ],
+        "1.4.4": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "305fefa24fa4f6c5a1d69287060b9b3d",
+                    "sha256": "d320a8a848ee499f57d2852c50bbb9d9414bd1099f4105b620382096754d2e02"
+                },
+                "downloads": 32903,
+                "filename": "ansible-1.4.4.tar.gz",
+                "has_sig": false,
+                "md5_digest": "305fefa24fa4f6c5a1d69287060b9b3d",
+                "packagetype": "sdist",
+                "path": "0b/7a/cc98ad3e7b1f211a2a8a212af1402c11dbd773915370101c922b12e66f8d/ansible-1.4.4.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "d320a8a848ee499f57d2852c50bbb9d9414bd1099f4105b620382096754d2e02",
+                "size": 578185,
+                "upload_time": "2014-01-08T17:24:07",
+                "url": "https://pypi.python.org/packages/0b/7a/cc98ad3e7b1f211a2a8a212af1402c11dbd773915370101c922b12e66f8d/ansible-1.4.4.tar.gz"
+            }
+        ],
+        "1.4.5": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "87d3d679e695d10cee35a204e04eb6a8",
+                    "sha256": "c88b526c6e0724c26276d96ba3beafaf2f15372703cbe86fc7884ce2df1f493f"
+                },
+                "downloads": 25722,
+                "filename": "ansible-1.4.5.tar.gz",
+                "has_sig": false,
+                "md5_digest": "87d3d679e695d10cee35a204e04eb6a8",
+                "packagetype": "sdist",
+                "path": "1c/8a/46733115b6469b0ac5d557af88284904335ac3c0306e1298a877d4906151/ansible-1.4.5.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "c88b526c6e0724c26276d96ba3beafaf2f15372703cbe86fc7884ce2df1f493f",
+                "size": 483835,
+                "upload_time": "2014-02-13T00:15:17",
+                "url": "https://pypi.python.org/packages/1c/8a/46733115b6469b0ac5d557af88284904335ac3c0306e1298a877d4906151/ansible-1.4.5.tar.gz"
+            }
+        ],
+        "1.5": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "cbdd30fdb93326bd3227de6f303f0d6c",
+                    "sha256": "37c46b84a5525ad027e3828cd862089a20783944603c504630d0c9c84e62df45"
+                },
+                "downloads": 17447,
+                "filename": "ansible-1.5.tar.gz",
+                "has_sig": false,
+                "md5_digest": "cbdd30fdb93326bd3227de6f303f0d6c",
+                "packagetype": "sdist",
+                "path": "38/63/7bf323520a0348f0a1dfb477be7dbe77a0d2bc7fde124bcd6c75c316f1d6/ansible-1.5.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "37c46b84a5525ad027e3828cd862089a20783944603c504630d0c9c84e62df45",
+                "size": 533821,
+                "upload_time": "2014-02-28T20:25:53",
+                "url": "https://pypi.python.org/packages/38/63/7bf323520a0348f0a1dfb477be7dbe77a0d2bc7fde124bcd6c75c316f1d6/ansible-1.5.tar.gz"
+            }
+        ],
+        "1.5.1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "9bc644193eb4000986666835e98257a9",
+                    "sha256": "c0b48e9dd3770868961215b7243d1ba7be21c59606d6b8ac732673f2668ef102"
+                },
+                "downloads": 3426,
+                "filename": "ansible-1.5.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "9bc644193eb4000986666835e98257a9",
+                "packagetype": "sdist",
+                "path": "17/ae/007b7a9d943eefec09330f7eed1f0cd0bd111669335667780268d13f39d7/ansible-1.5.1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "c0b48e9dd3770868961215b7243d1ba7be21c59606d6b8ac732673f2668ef102",
+                "size": 541214,
+                "upload_time": "2014-03-10T23:20:23",
+                "url": "https://pypi.python.org/packages/17/ae/007b7a9d943eefec09330f7eed1f0cd0bd111669335667780268d13f39d7/ansible-1.5.1.tar.gz"
+            }
+        ],
+        "1.5.2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "26c402f9cf84de72fb314b7869e0ba8d",
+                    "sha256": "36cf7e378137074466a07f8568c98940031e3a0b66d3844fac788907e919875a"
+                },
+                "downloads": 5487,
+                "filename": "ansible-1.5.2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "26c402f9cf84de72fb314b7869e0ba8d",
+                "packagetype": "sdist",
+                "path": "05/b3/5db6530d56f62ff3874174697ee0fa54e95db5d0b545bd6c9dc575a9d8cb/ansible-1.5.2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "36cf7e378137074466a07f8568c98940031e3a0b66d3844fac788907e919875a",
+                "size": 541002,
+                "upload_time": "2014-03-11T14:57:19",
+                "url": "https://pypi.python.org/packages/05/b3/5db6530d56f62ff3874174697ee0fa54e95db5d0b545bd6c9dc575a9d8cb/ansible-1.5.2.tar.gz"
+            }
+        ],
+        "1.5.3": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "9fe87a1f16da6732d9c24eb817f1ec18",
+                    "sha256": "25bfecb468616ae7117fce1036de663e9fc8d2a96d71cbfabe6153ca3c781a4e"
+                },
+                "downloads": 26061,
+                "filename": "ansible-1.5.3.tar.gz",
+                "has_sig": false,
+                "md5_digest": "9fe87a1f16da6732d9c24eb817f1ec18",
+                "packagetype": "sdist",
+                "path": "8a/5f/523ddc547a84ee68d4c00e3e118442072612afcaae4289195cdf6936f4e0/ansible-1.5.3.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "25bfecb468616ae7117fce1036de663e9fc8d2a96d71cbfabe6153ca3c781a4e",
+                "size": 542687,
+                "upload_time": "2014-03-14T15:33:35",
+                "url": "https://pypi.python.org/packages/8a/5f/523ddc547a84ee68d4c00e3e118442072612afcaae4289195cdf6936f4e0/ansible-1.5.3.tar.gz"
+            }
+        ],
+        "1.5.4": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "03e8c198ca599f636573fa39f2dad7e9",
+                    "sha256": "39bcc5c9888828dde04ab3f0f4984a01c3eafbf6813d623dd39fc3e8b4f3e6c8"
+                },
+                "downloads": 24006,
+                "filename": "ansible-1.5.4.tar.gz",
+                "has_sig": false,
+                "md5_digest": "03e8c198ca599f636573fa39f2dad7e9",
+                "packagetype": "sdist",
+                "path": "39/b3/aba24a99152e3b27d5217c328c00e9d4d725a69b116da462f75b497348d6/ansible-1.5.4.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "39bcc5c9888828dde04ab3f0f4984a01c3eafbf6813d623dd39fc3e8b4f3e6c8",
+                "size": 543374,
+                "upload_time": "2014-04-01T21:27:58",
+                "url": "https://pypi.python.org/packages/39/b3/aba24a99152e3b27d5217c328c00e9d4d725a69b116da462f75b497348d6/ansible-1.5.4.tar.gz"
+            }
+        ],
+        "1.5.5": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "de02d1109d8b1d04a74f082b7ea2cb15",
+                    "sha256": "e6414599d44ab805ffd76273db4970d1f09b50ea5837bc8dfcdeae7254d9d45f"
+                },
+                "downloads": 44486,
+                "filename": "ansible-1.5.5.tar.gz",
+                "has_sig": false,
+                "md5_digest": "de02d1109d8b1d04a74f082b7ea2cb15",
+                "packagetype": "sdist",
+                "path": "2a/de/ac1ab42ba5f940a1e9cf9eb992c5a8d935101345f47799b3478dfc612444/ansible-1.5.5.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "e6414599d44ab805ffd76273db4970d1f09b50ea5837bc8dfcdeae7254d9d45f",
+                "size": 543374,
+                "upload_time": "2014-04-18T21:04:31",
+                "url": "https://pypi.python.org/packages/2a/de/ac1ab42ba5f940a1e9cf9eb992c5a8d935101345f47799b3478dfc612444/ansible-1.5.5.tar.gz"
+            }
+        ],
+        "1.6": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "c320eaafb3d4dfd4f04ffe49f75d7951",
+                    "sha256": "7f8f34e6e8a1a1348901b2e823ee74bea73c5d3b4c251d62826bf1bd6b130736"
+                },
+                "downloads": 11020,
+                "filename": "ansible-1.6.tar.gz",
+                "has_sig": false,
+                "md5_digest": "c320eaafb3d4dfd4f04ffe49f75d7951",
+                "packagetype": "sdist",
+                "path": "b9/b5/170c1892ca52a3df6dd69da45c8f79f8d0ae812b41a6854389510039a08e/ansible-1.6.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "7f8f34e6e8a1a1348901b2e823ee74bea73c5d3b4c251d62826bf1bd6b130736",
+                "size": 647646,
+                "upload_time": "2014-05-05T21:41:21",
+                "url": "https://pypi.python.org/packages/b9/b5/170c1892ca52a3df6dd69da45c8f79f8d0ae812b41a6854389510039a08e/ansible-1.6.tar.gz"
+            }
+        ],
+        "1.6.1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "8716cbebe078afaccd614359d16af7e3",
+                    "sha256": "1773e4f40339a16ea6f308e008aee0c13738b3bfbd10a82689fc42bbd3eb315c"
+                },
+                "downloads": 24178,
+                "filename": "ansible-1.6.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "8716cbebe078afaccd614359d16af7e3",
+                "packagetype": "sdist",
+                "path": "3e/21/f8d469c0220b41f761f779f9c791fd7b49eb2c97f58c18dad0eda64dfb14/ansible-1.6.1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "1773e4f40339a16ea6f308e008aee0c13738b3bfbd10a82689fc42bbd3eb315c",
+                "size": 647826,
+                "upload_time": "2014-05-07T18:17:57",
+                "url": "https://pypi.python.org/packages/3e/21/f8d469c0220b41f761f779f9c791fd7b49eb2c97f58c18dad0eda64dfb14/ansible-1.6.1.tar.gz"
+            }
+        ],
+        "1.6.10": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "ef20f5b09d0df67bcf02f540539e84d0",
+                    "sha256": "3d03c42073c4b6944f23dc06e150912f4f106d65fa00290c03f8972fd70e3c71"
+                },
+                "downloads": 34772,
+                "filename": "ansible-1.6.10.tar.gz",
+                "has_sig": false,
+                "md5_digest": "ef20f5b09d0df67bcf02f540539e84d0",
+                "packagetype": "sdist",
+                "path": "00/bf/f2990442bec58eb893322ea82ff8303581add25ffc429d212ae35166a41a/ansible-1.6.10.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "3d03c42073c4b6944f23dc06e150912f4f106d65fa00290c03f8972fd70e3c71",
+                "size": 654605,
+                "upload_time": "2014-07-25T20:48:52",
+                "url": "https://pypi.python.org/packages/00/bf/f2990442bec58eb893322ea82ff8303581add25ffc429d212ae35166a41a/ansible-1.6.10.tar.gz"
+            }
+        ],
+        "1.6.2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "709f9192c3c2cfe46d2fe3ed90ca2484",
+                    "sha256": "237769ca05b75a6df7ca8239357903efb54fa679d38bab0032573298a8feadc8"
+                },
+                "downloads": 17785,
+                "filename": "ansible-1.6.2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "709f9192c3c2cfe46d2fe3ed90ca2484",
+                "packagetype": "sdist",
+                "path": "42/47/7e4162a49d6788679cf24fd0ca69bb44a00bf3d9d6584be8345ab67166a2/ansible-1.6.2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "237769ca05b75a6df7ca8239357903efb54fa679d38bab0032573298a8feadc8",
+                "size": 649230,
+                "upload_time": "2014-05-23T21:16:28",
+                "url": "https://pypi.python.org/packages/42/47/7e4162a49d6788679cf24fd0ca69bb44a00bf3d9d6584be8345ab67166a2/ansible-1.6.2.tar.gz"
+            }
+        ],
+        "1.6.3": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "db0f5c3ae8e1feba2c7e63297767da8e",
+                    "sha256": "1280d93174dd1b39f72c7302a36c5e728c9e52dd3995dd815ca1a57974256d44"
+                },
+                "downloads": 22258,
+                "filename": "ansible-1.6.3.tar.gz",
+                "has_sig": false,
+                "md5_digest": "db0f5c3ae8e1feba2c7e63297767da8e",
+                "packagetype": "sdist",
+                "path": "63/72/206d4ad00c5bf6ee060a157aab609feb5ead5f1fae02fd599619762b8736/ansible-1.6.3.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "1280d93174dd1b39f72c7302a36c5e728c9e52dd3995dd815ca1a57974256d44",
+                "size": 650061,
+                "upload_time": "2014-06-09T21:23:34",
+                "url": "https://pypi.python.org/packages/63/72/206d4ad00c5bf6ee060a157aab609feb5ead5f1fae02fd599619762b8736/ansible-1.6.3.tar.gz"
+            }
+        ],
+        "1.6.4": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "72e1b626407deb4583005ca3b02ce553",
+                    "sha256": "8822c920be476f09b18265d4e04aca4bee1ee66fdb22e462a32cf98ffb0e87c0"
+                },
+                "downloads": 3354,
+                "filename": "ansible-1.6.4.tar.gz",
+                "has_sig": false,
+                "md5_digest": "72e1b626407deb4583005ca3b02ce553",
+                "packagetype": "sdist",
+                "path": "3d/82/d2ee9c9ead96bcb44dc7e2ca9487e0369ae28f6ac00d02288782d26881e8/ansible-1.6.4.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "8822c920be476f09b18265d4e04aca4bee1ee66fdb22e462a32cf98ffb0e87c0",
+                "size": 650972,
+                "upload_time": "2014-06-25T19:35:17",
+                "url": "https://pypi.python.org/packages/3d/82/d2ee9c9ead96bcb44dc7e2ca9487e0369ae28f6ac00d02288782d26881e8/ansible-1.6.4.tar.gz"
+            }
+        ],
+        "1.6.5": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "47d543c0cdc8ba5f8506d6de0acb7e9c",
+                    "sha256": "d19ed70298e778beab14a92a7d7739be5e7c670d3fc2ff3be9879c9a08520397"
+                },
+                "downloads": 8293,
+                "filename": "ansible-1.6.5.tar.gz",
+                "has_sig": false,
+                "md5_digest": "47d543c0cdc8ba5f8506d6de0acb7e9c",
+                "packagetype": "sdist",
+                "path": "19/ad/897a954dfc632ca710e8b541653ee47b50a219a75dcdc736a16b62660096/ansible-1.6.5.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "d19ed70298e778beab14a92a7d7739be5e7c670d3fc2ff3be9879c9a08520397",
+                "size": 651029,
+                "upload_time": "2014-06-26T02:36:19",
+                "url": "https://pypi.python.org/packages/19/ad/897a954dfc632ca710e8b541653ee47b50a219a75dcdc736a16b62660096/ansible-1.6.5.tar.gz"
+            }
+        ],
+        "1.6.6": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "1121e85d69288eb2215d7cc735b45fbb",
+                    "sha256": "bb9f5145ff051f38b0d533b86e3f661af180346945232d000aaab401f6c3f4fe"
+                },
+                "downloads": 136986,
+                "filename": "ansible-1.6.6.tar.gz",
+                "has_sig": false,
+                "md5_digest": "1121e85d69288eb2215d7cc735b45fbb",
+                "packagetype": "sdist",
+                "path": "e2/09/7c4f5d377ae64013735980fc1d9995cee3b58f0831c20214919fba03c3b4/ansible-1.6.6.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "bb9f5145ff051f38b0d533b86e3f661af180346945232d000aaab401f6c3f4fe",
+                "size": 650845,
+                "upload_time": "2014-07-01T19:50:40",
+                "url": "https://pypi.python.org/packages/e2/09/7c4f5d377ae64013735980fc1d9995cee3b58f0831c20214919fba03c3b4/ansible-1.6.6.tar.gz"
+            }
+        ],
+        "1.6.7": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "276807d1693c371a74eb63aa947a152e",
+                    "sha256": "87458f479061abcbb0d81f2e57955ed2e21a81fd8727733f5831890cfb946420"
+                },
+                "downloads": 5026,
+                "filename": "ansible-1.6.7.tar.gz",
+                "has_sig": false,
+                "md5_digest": "276807d1693c371a74eb63aa947a152e",
+                "packagetype": "sdist",
+                "path": "5a/06/40c2fed622050ddd672a53f61e760489629ffaeba3ef053c99bd352c3a47/ansible-1.6.7.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "87458f479061abcbb0d81f2e57955ed2e21a81fd8727733f5831890cfb946420",
+                "size": 652360,
+                "upload_time": "2014-07-21T16:47:49",
+                "url": "https://pypi.python.org/packages/5a/06/40c2fed622050ddd672a53f61e760489629ffaeba3ef053c99bd352c3a47/ansible-1.6.7.tar.gz"
+            }
+        ],
+        "1.6.8": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "a9f31d7c2ed133eb7fba5221de1b9d75",
+                    "sha256": "1a47ea5cf339572c46bc346dea6c27e4fe828be052f8b7c0f7cc1496dcd9d616"
+                },
+                "downloads": 6000,
+                "filename": "ansible-1.6.8.tar.gz",
+                "has_sig": false,
+                "md5_digest": "a9f31d7c2ed133eb7fba5221de1b9d75",
+                "packagetype": "sdist",
+                "path": "73/25/08508b1d7d0834960a1b87f0e42fb2ba52d8f120eff0e8a98ceb19d95586/ansible-1.6.8.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "1a47ea5cf339572c46bc346dea6c27e4fe828be052f8b7c0f7cc1496dcd9d616",
+                "size": 652658,
+                "upload_time": "2014-07-22T21:42:27",
+                "url": "https://pypi.python.org/packages/73/25/08508b1d7d0834960a1b87f0e42fb2ba52d8f120eff0e8a98ceb19d95586/ansible-1.6.8.tar.gz"
+            }
+        ],
+        "1.6.9": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "2b142d225564c115687dd57b7eb49371",
+                    "sha256": "1fe54105b593009390a7c601ccd8aafd693cdc5a8c6c478059a485d9a0eff409"
+                },
+                "downloads": 4364,
+                "filename": "ansible-1.6.9.tar.gz",
+                "has_sig": false,
+                "md5_digest": "2b142d225564c115687dd57b7eb49371",
+                "packagetype": "sdist",
+                "path": "49/e7/f4b2e3a6bbf90e346ca0b73271fc3b2dac973816a870e854f1495c69098e/ansible-1.6.9.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "1fe54105b593009390a7c601ccd8aafd693cdc5a8c6c478059a485d9a0eff409",
+                "size": 654481,
+                "upload_time": "2014-07-25T03:28:12",
+                "url": "https://pypi.python.org/packages/49/e7/f4b2e3a6bbf90e346ca0b73271fc3b2dac973816a870e854f1495c69098e/ansible-1.6.9.tar.gz"
+            }
+        ],
+        "1.7": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "367d63ff316ee38c7e51b48a8f598327",
+                    "sha256": "3dc7174d8fe3f6c3cb13b988e620a52d4d8cae3b7922a46f59005a728821679e"
+                },
+                "downloads": 16041,
+                "filename": "ansible-1.7.tar.gz",
+                "has_sig": false,
+                "md5_digest": "367d63ff316ee38c7e51b48a8f598327",
+                "packagetype": "sdist",
+                "path": "2f/d4/3a76a12463aebc006bce192e5e3de3a48d2a419bccb946849b10b3e27373/ansible-1.7.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "3dc7174d8fe3f6c3cb13b988e620a52d4d8cae3b7922a46f59005a728821679e",
+                "size": 691877,
+                "upload_time": "2014-08-06T20:42:47",
+                "url": "https://pypi.python.org/packages/2f/d4/3a76a12463aebc006bce192e5e3de3a48d2a419bccb946849b10b3e27373/ansible-1.7.tar.gz"
+            }
+        ],
+        "1.7.1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "611334dd66f3b7fd31938e1c1dd3e3a2",
+                    "sha256": "d8fa163ab3730a03d50bc0766809cb36122b6c8be880b3bcde7e25a5b5143f6a"
+                },
+                "downloads": 74389,
+                "filename": "ansible-1.7.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "611334dd66f3b7fd31938e1c1dd3e3a2",
+                "packagetype": "sdist",
+                "path": "00/33/4645cd3a251bd87740cd256cb541257ee6072b4c5e1b9dadb9413a8e0a5b/ansible-1.7.1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "d8fa163ab3730a03d50bc0766809cb36122b6c8be880b3bcde7e25a5b5143f6a",
+                "size": 696176,
+                "upload_time": "2014-08-14T21:13:34",
+                "url": "https://pypi.python.org/packages/00/33/4645cd3a251bd87740cd256cb541257ee6072b4c5e1b9dadb9413a8e0a5b/ansible-1.7.1.tar.gz"
+            }
+        ],
+        "1.7.2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "6c9112a2e7d7d1394c97e57290fc13be",
+                    "sha256": "a17ce716b47f831ea9c88bdab33753fa3870c7ea8a1ee5e8c1287ca40c8498ac"
+                },
+                "downloads": 133688,
+                "filename": "ansible-1.7.2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "6c9112a2e7d7d1394c97e57290fc13be",
+                "packagetype": "sdist",
+                "path": "5c/ed/39e054fc5add40bb94d24db0762f3483da3b190fcfe5b234ea6f0e244bdd/ansible-1.7.2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "a17ce716b47f831ea9c88bdab33753fa3870c7ea8a1ee5e8c1287ca40c8498ac",
+                "size": 696785,
+                "upload_time": "2014-09-24T20:02:42",
+                "url": "https://pypi.python.org/packages/5c/ed/39e054fc5add40bb94d24db0762f3483da3b190fcfe5b234ea6f0e244bdd/ansible-1.7.2.tar.gz"
+            }
+        ],
+        "1.8": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "bef9102c42f6c4820d1d262c4d1f606e",
+                    "sha256": "d5e4e414834e119083ee01d6a40668d9a69b044b861d78c3fdfb6beb97660b09"
+                },
+                "downloads": 30702,
+                "filename": "ansible-1.8.tar.gz",
+                "has_sig": false,
+                "md5_digest": "bef9102c42f6c4820d1d262c4d1f606e",
+                "packagetype": "sdist",
+                "path": "f8/0b/84bdf18819878b8cd9c60633856dd0b5e57ca74c95b9c26554e2842db8a3/ansible-1.8.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "d5e4e414834e119083ee01d6a40668d9a69b044b861d78c3fdfb6beb97660b09",
+                "size": 751937,
+                "upload_time": "2014-11-25T22:43:16",
+                "url": "https://pypi.python.org/packages/f8/0b/84bdf18819878b8cd9c60633856dd0b5e57ca74c95b9c26554e2842db8a3/ansible-1.8.tar.gz"
+            }
+        ],
+        "1.8.1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "c566361cef287b324477383e4fabc1f3",
+                    "sha256": "cb69f0bd64f01260592c80d978e030051844a2abbf51c8f1e2cff262ed041eee"
+                },
+                "downloads": 22986,
+                "filename": "ansible-1.8.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "c566361cef287b324477383e4fabc1f3",
+                "packagetype": "sdist",
+                "path": "9f/bd/2d950883179d708e5b5b6a26f0b47a01b19de220a3a0d9d91f93facbb667/ansible-1.8.1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "cb69f0bd64f01260592c80d978e030051844a2abbf51c8f1e2cff262ed041eee",
+                "size": 751954,
+                "upload_time": "2014-11-28T00:51:07",
+                "url": "https://pypi.python.org/packages/9f/bd/2d950883179d708e5b5b6a26f0b47a01b19de220a3a0d9d91f93facbb667/ansible-1.8.1.tar.gz"
+            }
+        ],
+        "1.8.2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "c2ac0e5a4c092dfa84c7e9e51cd45095",
+                    "sha256": "2cd01ff4d67acb410bae0a9438956f6fc36d01babd956b0dc3b700620f2372b9"
+                },
+                "downloads": 174503,
+                "filename": "ansible-1.8.2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "c2ac0e5a4c092dfa84c7e9e51cd45095",
+                "packagetype": "sdist",
+                "path": "47/42/2ea090d439beb5c1d550e692f2e69d588fea2e27781b3de6042b316479cb/ansible-1.8.2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "2cd01ff4d67acb410bae0a9438956f6fc36d01babd956b0dc3b700620f2372b9",
+                "size": 754435,
+                "upload_time": "2014-12-04T23:16:25",
+                "url": "https://pypi.python.org/packages/47/42/2ea090d439beb5c1d550e692f2e69d588fea2e27781b3de6042b316479cb/ansible-1.8.2.tar.gz"
+            }
+        ],
+        "1.8.3": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "aa59af402c2636e019a5edc6fc78142f",
+                    "sha256": "c2ff9638d58cd891730988e449603c09c8fadd0259a41b27545b061ff3d9e0cd"
+                },
+                "downloads": 11598,
+                "filename": "ansible-1.8.3.tar.gz",
+                "has_sig": false,
+                "md5_digest": "aa59af402c2636e019a5edc6fc78142f",
+                "packagetype": "sdist",
+                "path": "60/aa/682a7055d3987664c7d843e4eb4348a9e084be9810f2797ac9ddc6f15f9f/ansible-1.8.3.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "c2ff9638d58cd891730988e449603c09c8fadd0259a41b27545b061ff3d9e0cd",
+                "size": 757151,
+                "upload_time": "2015-02-17T23:08:40",
+                "url": "https://pypi.python.org/packages/60/aa/682a7055d3987664c7d843e4eb4348a9e084be9810f2797ac9ddc6f15f9f/ansible-1.8.3.tar.gz"
+            }
+        ],
+        "1.8.4": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "e0bbf484e9fa49cd119f50ad65905978",
+                    "sha256": "d37c04b3abce9b036a6c8311fccb360c5cbc3ec895445f805243b0448d239ec1"
+                },
+                "downloads": 227412,
+                "filename": "ansible-1.8.4.tar.gz",
+                "has_sig": false,
+                "md5_digest": "e0bbf484e9fa49cd119f50ad65905978",
+                "packagetype": "sdist",
+                "path": "5b/6d/47b1969b7ae1560b24cdf093bc6bcfc93e9361abbb5078329ae3ed75f442/ansible-1.8.4.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "d37c04b3abce9b036a6c8311fccb360c5cbc3ec895445f805243b0448d239ec1",
+                "size": 758916,
+                "upload_time": "2015-02-19T18:03:04",
+                "url": "https://pypi.python.org/packages/5b/6d/47b1969b7ae1560b24cdf093bc6bcfc93e9361abbb5078329ae3ed75f442/ansible-1.8.4.tar.gz"
+            }
+        ],
+        "1.9.0": [],
+        "1.9.0.1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "3773b0df98288c237f2329cf184ff59f",
+                    "sha256": "b2193fd9a4061ab624fa67311796419a759de06b4f321d37169b22ba3831331c"
+                },
+                "downloads": 122087,
+                "filename": "ansible-1.9.0.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "3773b0df98288c237f2329cf184ff59f",
+                "packagetype": "sdist",
+                "path": "c5/7f/d1fd416770775ffb216a1269bbe6daedc66dd6b3a786075711829f8ee26d/ansible-1.9.0.1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "b2193fd9a4061ab624fa67311796419a759de06b4f321d37169b22ba3831331c",
+                "size": 916591,
+                "upload_time": "2015-03-26T00:00:18",
+                "url": "https://pypi.python.org/packages/c5/7f/d1fd416770775ffb216a1269bbe6daedc66dd6b3a786075711829f8ee26d/ansible-1.9.0.1.tar.gz"
+            }
+        ],
+        "1.9.1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "3c0f0ecc8b5d60831b10045dba64bbbb",
+                    "sha256": "a6f975d565723765a4d490ff40cede96833a745f38908def4950a0075f1973f5"
+                },
+                "downloads": 329419,
+                "filename": "ansible-1.9.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "3c0f0ecc8b5d60831b10045dba64bbbb",
+                "packagetype": "sdist",
+                "path": "cd/e3/c2b52043b44aede4381b9eeb185554448afdfdf2608924a4b094bf6c1a03/ansible-1.9.1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "a6f975d565723765a4d490ff40cede96833a745f38908def4950a0075f1973f5",
+                "size": 917471,
+                "upload_time": "2015-04-28T18:42:38",
+                "url": "https://pypi.python.org/packages/cd/e3/c2b52043b44aede4381b9eeb185554448afdfdf2608924a4b094bf6c1a03/ansible-1.9.1.tar.gz"
+            }
+        ],
+        "1.9.2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "5e0a72c8b7a3848907ac28b5f38cfc27",
+                    "sha256": "c25ef4738b08fdfb3094247c012f3fd1b29972acbd37f988070b2a85f5fbee00"
+                },
+                "downloads": 392269,
+                "filename": "ansible-1.9.2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "5e0a72c8b7a3848907ac28b5f38cfc27",
+                "packagetype": "sdist",
+                "path": "a7/1f/246f5766b51e354347f12422ab5ed04530c04d50dfe0bf14fc63a56c4c96/ansible-1.9.2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "c25ef4738b08fdfb3094247c012f3fd1b29972acbd37f988070b2a85f5fbee00",
+                "size": 927525,
+                "upload_time": "2015-06-25T20:39:32",
+                "url": "https://pypi.python.org/packages/a7/1f/246f5766b51e354347f12422ab5ed04530c04d50dfe0bf14fc63a56c4c96/ansible-1.9.2.tar.gz"
+            }
+        ],
+        "1.9.3": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "55be10fca4e9e0172a15e88874028eff",
+                    "sha256": "2594f642fd800056a427c1026410dc6ed8dfa7c0033f5c3d187abdb2b0d4eeed"
+                },
+                "downloads": 264645,
+                "filename": "ansible-1.9.3.tar.gz",
+                "has_sig": false,
+                "md5_digest": "55be10fca4e9e0172a15e88874028eff",
+                "packagetype": "sdist",
+                "path": "55/29/dbd3fee20def918fa401faf1666e5a139415d8b4d967086d96ea10e0af0d/ansible-1.9.3.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "2594f642fd800056a427c1026410dc6ed8dfa7c0033f5c3d187abdb2b0d4eeed",
+                "size": 936633,
+                "upload_time": "2015-09-03T23:03:18",
+                "url": "https://pypi.python.org/packages/55/29/dbd3fee20def918fa401faf1666e5a139415d8b4d967086d96ea10e0af0d/ansible-1.9.3.tar.gz"
+            }
+        ],
+        "1.9.4": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "ad411285d4a78e78e3a49f4ee2c7cc3f",
+                    "sha256": "972c2face49f1577bd0ff7989440bfe2820e66fb10d7579915cc536bccfa6fe3"
+                },
+                "downloads": 682175,
+                "filename": "ansible-1.9.4.tar.gz",
+                "has_sig": false,
+                "md5_digest": "ad411285d4a78e78e3a49f4ee2c7cc3f",
+                "packagetype": "sdist",
+                "path": "5b/d6/4f84e1e6e42f758ede5ba7dd3ae043c3942c9986aae618907b4269482e18/ansible-1.9.4.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "972c2face49f1577bd0ff7989440bfe2820e66fb10d7579915cc536bccfa6fe3",
+                "size": 937120,
+                "upload_time": "2015-10-10T02:08:28",
+                "url": "https://pypi.python.org/packages/5b/d6/4f84e1e6e42f758ede5ba7dd3ae043c3942c9986aae618907b4269482e18/ansible-1.9.4.tar.gz"
+            }
+        ],
+        "1.9.5": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "9adaa79b8040cc46b3e1d0140e0717ff",
+                    "sha256": "6ba3539d98d993089bea0eb4ee83a04608aff900086040f11a77f2124dccbd8e"
+                },
+                "downloads": 2395,
+                "filename": "ansible-1.9.5.tar.gz",
+                "has_sig": false,
+                "md5_digest": "9adaa79b8040cc46b3e1d0140e0717ff",
+                "packagetype": "sdist",
+                "path": "ae/2e/3c962b3483faa35e8d5173442e7ac58eedf3633f5457f52076f4125aa5a5/ansible-1.9.5.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "6ba3539d98d993089bea0eb4ee83a04608aff900086040f11a77f2124dccbd8e",
+                "size": 941331,
+                "upload_time": "2016-03-21T23:08:00",
+                "url": "https://pypi.python.org/packages/ae/2e/3c962b3483faa35e8d5173442e7ac58eedf3633f5457f52076f4125aa5a5/ansible-1.9.5.tar.gz"
+            }
+        ],
+        "1.9.6": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "eabb2f5b510943d619e61b90d8c50a1d",
+                    "sha256": "50773781b1e76f2885bbeb2351a97cf1c6a29239d3e073da939a104e7e81ee5d"
+                },
+                "downloads": 29727,
+                "filename": "ansible-1.9.6.tar.gz",
+                "has_sig": false,
+                "md5_digest": "eabb2f5b510943d619e61b90d8c50a1d",
+                "packagetype": "sdist",
+                "path": "c3/b5/7329497d4b28d84011e47c9605a686c5f26b68719345e9174fc19084bfbe/ansible-1.9.6.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "50773781b1e76f2885bbeb2351a97cf1c6a29239d3e073da939a104e7e81ee5d",
+                "size": 941457,
+                "upload_time": "2016-04-15T19:17:15",
+                "url": "https://pypi.python.org/packages/c3/b5/7329497d4b28d84011e47c9605a686c5f26b68719345e9174fc19084bfbe/ansible-1.9.6.tar.gz"
+            }
+        ],
+        "2.0.0": [],
+        "2.0.0.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "16ff086b43c540e6d9e9c37bcac13579",
+                    "sha256": "63a9386ae96bd6ae3e87b9e9fecef3f3f919f333ed8db22292e37df7643cb3f6"
+                },
+                "downloads": 8419,
+                "filename": "ansible-2.0.0.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "16ff086b43c540e6d9e9c37bcac13579",
+                "packagetype": "sdist",
+                "path": "64/3c/b31bfc2d1ecc96922924a1deb269e42d0de886f94240daf6ceef9874c7a6/ansible-2.0.0.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "63a9386ae96bd6ae3e87b9e9fecef3f3f919f333ed8db22292e37df7643cb3f6",
+                "size": 1512605,
+                "upload_time": "2016-01-12T13:48:34",
+                "url": "https://pypi.python.org/packages/64/3c/b31bfc2d1ecc96922924a1deb269e42d0de886f94240daf6ceef9874c7a6/ansible-2.0.0.0.tar.gz"
+            }
+        ],
+        "2.0.0.1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "b4ea2bc7323668c42e15e47cba7ee5be",
+                    "sha256": "1085c1fae3b59f8e55a64b949489f1ddcd811a0c32d9df8ac18abf44a430f3b5"
+                },
+                "downloads": 14660,
+                "filename": "ansible-2.0.0.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "b4ea2bc7323668c42e15e47cba7ee5be",
+                "packagetype": "sdist",
+                "path": "57/b1/8027eea673afba6495806286ee25f4c6cb8c2450e43e3e46b861132caf03/ansible-2.0.0.1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "1085c1fae3b59f8e55a64b949489f1ddcd811a0c32d9df8ac18abf44a430f3b5",
+                "size": 1524249,
+                "upload_time": "2016-01-12T23:21:59",
+                "url": "https://pypi.python.org/packages/57/b1/8027eea673afba6495806286ee25f4c6cb8c2450e43e3e46b861132caf03/ansible-2.0.0.1.tar.gz"
+            }
+        ],
+        "2.0.0.2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "816d0c49e084383e47a725c761a0e413",
+                    "sha256": "27db0b99113fab85b1430c361c7790a0aa7f5c614c9af13362e2adbba07e5828"
+                },
+                "downloads": 145354,
+                "filename": "ansible-2.0.0.2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "816d0c49e084383e47a725c761a0e413",
+                "packagetype": "sdist",
+                "path": "42/eb/0f78ac9b8abbc797ce08955bc9ea1b5013937e6270c4e517d369097fb658/ansible-2.0.0.2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "27db0b99113fab85b1430c361c7790a0aa7f5c614c9af13362e2adbba07e5828",
+                "size": 1497944,
+                "upload_time": "2016-01-14T22:33:49",
+                "url": "https://pypi.python.org/packages/42/eb/0f78ac9b8abbc797ce08955bc9ea1b5013937e6270c4e517d369097fb658/ansible-2.0.0.2.tar.gz"
+            }
+        ],
+        "2.0.1.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "84c576762bc1a8a345fe12ac338bd2d8",
+                    "sha256": "cddc4fa6af4c1be6cd1d6634de1bd0397abad921c76b32cab6722c042744ee5d"
+                },
+                "downloads": 45814,
+                "filename": "ansible-2.0.1.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "84c576762bc1a8a345fe12ac338bd2d8",
+                "packagetype": "sdist",
+                "path": "e8/a5/db83bcaf2c823b8fb2df01f49a3835b62f5b757e27ecb31bcb472a789e9a/ansible-2.0.1.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "cddc4fa6af4c1be6cd1d6634de1bd0397abad921c76b32cab6722c042744ee5d",
+                "size": 1510155,
+                "upload_time": "2016-02-25T03:01:15",
+                "url": "https://pypi.python.org/packages/e8/a5/db83bcaf2c823b8fb2df01f49a3835b62f5b757e27ecb31bcb472a789e9a/ansible-2.0.1.0.tar.gz"
+            }
+        ],
+        "2.0.2.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "e210c7d696fe2c084f78a07b8cbc2981",
+                    "sha256": "373a2e50319d90da50948e3faf1c033464b7302200e0199da8981d24646d4387"
+                },
+                "downloads": 46805,
+                "filename": "ansible-2.0.2.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "e210c7d696fe2c084f78a07b8cbc2981",
+                "packagetype": "sdist",
+                "path": "b3/0e/5f3ee8884866a3d5e3b8ba86e9caa85ecdec75adabac8924b1c122339e7f/ansible-2.0.2.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "373a2e50319d90da50948e3faf1c033464b7302200e0199da8981d24646d4387",
+                "size": 1516681,
+                "upload_time": "2016-04-19T21:55:37",
+                "url": "https://pypi.python.org/packages/b3/0e/5f3ee8884866a3d5e3b8ba86e9caa85ecdec75adabac8924b1c122339e7f/ansible-2.0.2.0.tar.gz"
+            }
+        ],
+        "2.1.0.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "9d8bd04d3f0032c1948c5b2bf0b3b048",
+                    "sha256": "403443b55f6522cf86f9b41544a9b6b81f7d27f088446e85334d5d7a6317ccad"
+                },
+                "downloads": 107913,
+                "filename": "ansible-2.1.0.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "9d8bd04d3f0032c1948c5b2bf0b3b048",
+                "packagetype": "sdist",
+                "path": "26/6e/3974858f047641de6ceffad0f51ab7cafa5f2c09d1474c6221ec96434f58/ansible-2.1.0.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "403443b55f6522cf86f9b41544a9b6b81f7d27f088446e85334d5d7a6317ccad",
+                "size": 1877209,
+                "upload_time": "2016-05-25T13:01:15",
+                "url": "https://pypi.python.org/packages/26/6e/3974858f047641de6ceffad0f51ab7cafa5f2c09d1474c6221ec96434f58/ansible-2.1.0.0.tar.gz"
+            }
+        ],
+        "2.1.1.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "314e8076cd604f5d12f0e027a7600679",
+                    "sha256": "8d2d4f39341b30257b83830a682b559c22904d81fd60b4a3e8b96f055f031197"
+                },
+                "downloads": 116105,
+                "filename": "ansible-2.1.1.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "314e8076cd604f5d12f0e027a7600679",
+                "packagetype": "sdist",
+                "path": "26/7c/4c717d39afac30bc324744a35fda077c969d3881daf71d396969958e01b7/ansible-2.1.1.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "8d2d4f39341b30257b83830a682b559c22904d81fd60b4a3e8b96f055f031197",
+                "size": 1875511,
+                "upload_time": "2016-07-28T18:12:36",
+                "url": "https://pypi.python.org/packages/26/7c/4c717d39afac30bc324744a35fda077c969d3881daf71d396969958e01b7/ansible-2.1.1.0.tar.gz"
+            }
+        ],
+        "2.1.2.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "2b086b5b91d89c4124d0c1e39ac7ff59",
+                    "sha256": "9c37a7bd397c05ab8ca3fcc49417649ea49b9133d4cd9500408235617d1621eb"
+                },
+                "downloads": 58734,
+                "filename": "ansible-2.1.2.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "2b086b5b91d89c4124d0c1e39ac7ff59",
+                "packagetype": "sdist",
+                "path": "5f/51/9f54f20180eb323a80451c9f48f508bd5bbe03008c136e125b4ce3946fcf/ansible-2.1.2.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "9c37a7bd397c05ab8ca3fcc49417649ea49b9133d4cd9500408235617d1621eb",
+                "size": 1881113,
+                "upload_time": "2016-09-29T16:22:50",
+                "url": "https://pypi.python.org/packages/5f/51/9f54f20180eb323a80451c9f48f508bd5bbe03008c136e125b4ce3946fcf/ansible-2.1.2.0.tar.gz"
+            }
+        ],
+        "2.1.3.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "a9ea2a326d61db1f9c8398af79626a10",
+                    "sha256": "a3bb0487687b70d5586277f0f0c9a419d05ad1811b81fa18535a568e5d064c0b"
+                },
+                "downloads": 3547,
+                "filename": "ansible-2.1.3.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "a9ea2a326d61db1f9c8398af79626a10",
+                "packagetype": "sdist",
+                "path": "00/7a/08c9157cbd5f65ed4aa64946cbd0a4af7da6034bcc9185a2786bd9d168d5/ansible-2.1.3.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "a3bb0487687b70d5586277f0f0c9a419d05ad1811b81fa18535a568e5d064c0b",
+                "size": 1851643,
+                "upload_time": "2016-11-04T16:58:48",
+                "url": "https://pypi.python.org/packages/00/7a/08c9157cbd5f65ed4aa64946cbd0a4af7da6034bcc9185a2786bd9d168d5/ansible-2.1.3.0.tar.gz"
+            }
+        ],
+        "2.1.4.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "bc0ee267e955d307132f55c76de056b4",
+                    "sha256": "e9f1033356557dff2fdbaa1b13a7cc8fb2ed2b15129c84d0c53f63001232cc16"
+                },
+                "downloads": 275,
+                "filename": "ansible-2.1.4.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "bc0ee267e955d307132f55c76de056b4",
+                "packagetype": "sdist",
+                "path": "c9/a3/057fc36cb2f103b4a1b9333c53401fbfbbd88619cd3479258d2ea0d38ace/ansible-2.1.4.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "e9f1033356557dff2fdbaa1b13a7cc8fb2ed2b15129c84d0c53f63001232cc16",
+                "size": 1889427,
+                "upload_time": "2017-01-16T16:39:39",
+                "url": "https://pypi.python.org/packages/c9/a3/057fc36cb2f103b4a1b9333c53401fbfbbd88619cd3479258d2ea0d38ace/ansible-2.1.4.0.tar.gz"
+            }
+        ],
+        "2.1.5.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "ed960b5978a9daae3de4a7d2b96feefb",
+                    "sha256": "11a214a5623f9e0032b3e9036211a046ab3c0d3fb6586809c00b8cabd11f6bde"
+                },
+                "downloads": 599,
+                "filename": "ansible-2.1.5.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "ed960b5978a9daae3de4a7d2b96feefb",
+                "packagetype": "sdist",
+                "path": "7e/a6/2b56334a881407e544dcc45b9892188c0a56ab8d2ad523b79cddede189b7/ansible-2.1.5.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "11a214a5623f9e0032b3e9036211a046ab3c0d3fb6586809c00b8cabd11f6bde",
+                "size": 1893776,
+                "upload_time": "2017-03-27T20:13:31",
+                "url": "https://pypi.python.org/packages/7e/a6/2b56334a881407e544dcc45b9892188c0a56ab8d2ad523b79cddede189b7/ansible-2.1.5.0.tar.gz"
+            }
+        ],
+        "2.1.6.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "dbc4d4d6cf83a14e3ff31f451a4fdc35",
+                    "sha256": "e5d7c88412b9dbf5a5efec774648c1d1018491f1ac3e506f0004262ab3aa1a3a"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.1.6.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "dbc4d4d6cf83a14e3ff31f451a4fdc35",
+                "packagetype": "sdist",
+                "path": "f7/41/bfd21ae541eced8eeb61cbf8c45cb43effb3f5143d68a4dc06d2726f7872/ansible-2.1.6.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "e5d7c88412b9dbf5a5efec774648c1d1018491f1ac3e506f0004262ab3aa1a3a",
+                "size": 1897309,
+                "upload_time": "2017-06-01T19:24:39",
+                "url": "https://pypi.python.org/packages/f7/41/bfd21ae541eced8eeb61cbf8c45cb43effb3f5143d68a4dc06d2726f7872/ansible-2.1.6.0.tar.gz"
+            }
+        ],
+        "2.2.0.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "a19999efedc1b97b91250cda5df73f8a",
+                    "sha256": "d9f198d293394ce0f8ba802561b21368888e3301036a706b5584641b49408586"
+                },
+                "downloads": 114765,
+                "filename": "ansible-2.2.0.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "a19999efedc1b97b91250cda5df73f8a",
+                "packagetype": "sdist",
+                "path": "48/da/5e51cf931e4c7849ba698654877e2951ade8f842f28f0c904453a1d317d7/ansible-2.2.0.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "d9f198d293394ce0f8ba802561b21368888e3301036a706b5584641b49408586",
+                "size": 2441851,
+                "upload_time": "2016-11-01T03:43:55",
+                "url": "https://pypi.python.org/packages/48/da/5e51cf931e4c7849ba698654877e2951ade8f842f28f0c904453a1d317d7/ansible-2.2.0.0.tar.gz"
+            }
+        ],
+        "2.2.1.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "9e6e3961a0aa78a94b2fcdbb73e94fe9",
+                    "sha256": "63a12ea784c0f90e43293b973d5c75263634c7415e463352846cd676c188e93f"
+                },
+                "downloads": 9171,
+                "filename": "ansible-2.2.1.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "9e6e3961a0aa78a94b2fcdbb73e94fe9",
+                "packagetype": "sdist",
+                "path": "6b/2d/419f5fd14fd728a5fae413029eef536f089d41cc044135def3d542348f87/ansible-2.2.1.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "63a12ea784c0f90e43293b973d5c75263634c7415e463352846cd676c188e93f",
+                "size": 2511062,
+                "upload_time": "2017-01-16T16:48:56",
+                "url": "https://pypi.python.org/packages/6b/2d/419f5fd14fd728a5fae413029eef536f089d41cc044135def3d542348f87/ansible-2.2.1.0.tar.gz"
+            }
+        ],
+        "2.2.2.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "76b6614a5a27dc5171239e233815eea3",
+                    "sha256": "efd9c574168ac1916dd57f7c88d4dd2e13ef816af0ee49a8d34c77567886e4c2"
+                },
+                "downloads": 16378,
+                "filename": "ansible-2.2.2.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "76b6614a5a27dc5171239e233815eea3",
+                "packagetype": "sdist",
+                "path": "01/d5/b19c20595b2705d8bac61a803cecaaeb8cad4e6227df152335a18a9a0913/ansible-2.2.2.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "efd9c574168ac1916dd57f7c88d4dd2e13ef816af0ee49a8d34c77567886e4c2",
+                "size": 2510182,
+                "upload_time": "2017-03-27T20:33:40",
+                "url": "https://pypi.python.org/packages/01/d5/b19c20595b2705d8bac61a803cecaaeb8cad4e6227df152335a18a9a0913/ansible-2.2.2.0.tar.gz"
+            }
+        ],
+        "2.2.3.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "d9dd46516fef1d0a5d62613688eef2c6",
+                    "sha256": "de18ab1cf0712252e928dd1226b2c058d5345ef7377a01e0601a268fcd512a90"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.2.3.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "d9dd46516fef1d0a5d62613688eef2c6",
+                "packagetype": "sdist",
+                "path": "ba/41/83e024cdf5ca3b53c14261f268da7512ca395b893cab98c0639f9644b6b7/ansible-2.2.3.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "de18ab1cf0712252e928dd1226b2c058d5345ef7377a01e0601a268fcd512a90",
+                "size": 2512540,
+                "upload_time": "2017-05-09T15:15:57",
+                "url": "https://pypi.python.org/packages/ba/41/83e024cdf5ca3b53c14261f268da7512ca395b893cab98c0639f9644b6b7/ansible-2.2.3.0.tar.gz"
+            }
+        ],
+        "2.3.0.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "cf19fa58f534700322250e70bb24fcc9",
+                    "sha256": "299f3907cd566a20e163942fa82b6afc86ef89c2726ba503b90c1a651e82a458"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.3.0.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "cf19fa58f534700322250e70bb24fcc9",
+                "packagetype": "sdist",
+                "path": "65/6e/3df94b6bf0e2d8b7d1e9e4e384e312c49c59fce45ccfce3d01dd98084395/ansible-2.3.0.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "299f3907cd566a20e163942fa82b6afc86ef89c2726ba503b90c1a651e82a458",
+                "size": 4251730,
+                "upload_time": "2017-04-12T14:08:34",
+                "url": "https://pypi.python.org/packages/65/6e/3df94b6bf0e2d8b7d1e9e4e384e312c49c59fce45ccfce3d01dd98084395/ansible-2.3.0.0.tar.gz"
+            }
+        ],
+        "2.3.1.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "b1be8f05864a07c06b8a767dcd48ba1b",
+                    "sha256": "cd4b8f53720fcd0c351156b840fdd15ecfbec22c951b5406ec503de49d40b9f5"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.3.1.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "b1be8f05864a07c06b8a767dcd48ba1b",
+                "packagetype": "sdist",
+                "path": "42/84/2a4a9274a8062684f71fbb75939d78c29829f81918a72bc94b5ccbd68950/ansible-2.3.1.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "cd4b8f53720fcd0c351156b840fdd15ecfbec22c951b5406ec503de49d40b9f5",
+                "size": 4263357,
+                "upload_time": "2017-06-01T17:00:51",
+                "url": "https://pypi.python.org/packages/42/84/2a4a9274a8062684f71fbb75939d78c29829f81918a72bc94b5ccbd68950/ansible-2.3.1.0.tar.gz"
+            }
+        ],
+        "2.3.2.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "961ea671dac876c824723a8dfbcf7e23",
+                    "sha256": "0563b425279422487f12616ef719f6e558373b258dcf47e548d119be8d3168eb"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.3.2.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "961ea671dac876c824723a8dfbcf7e23",
+                "packagetype": "sdist",
+                "path": "21/dc/ad51ca12ec4f7516d0befbc14312930a484a066b22192dac9c3814e349c4/ansible-2.3.2.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "0563b425279422487f12616ef719f6e558373b258dcf47e548d119be8d3168eb",
+                "size": 4319664,
+                "upload_time": "2017-08-07T16:31:22",
+                "url": "https://pypi.python.org/packages/21/dc/ad51ca12ec4f7516d0befbc14312930a484a066b22192dac9c3814e349c4/ansible-2.3.2.0.tar.gz"
+            }
+        ],
+        "2.3.3.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "1f189e7d437deb1fd7e01084dd3b2895",
+                    "sha256": "da2a715f6ca14a76001cc0f4bd1e44024328b3c2dad2c946dc9c7ed2d7c30afa"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.3.3.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "1f189e7d437deb1fd7e01084dd3b2895",
+                "packagetype": "sdist",
+                "path": "d4/61/4080493544ecec71e770a20aa94cbd35a382813fac4fddb97573ae50bc7d/ansible-2.3.3.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "da2a715f6ca14a76001cc0f4bd1e44024328b3c2dad2c946dc9c7ed2d7c30afa",
+                "size": 4190380,
+                "upload_time": "2017-12-20T19:13:48",
+                "url": "https://pypi.python.org/packages/d4/61/4080493544ecec71e770a20aa94cbd35a382813fac4fddb97573ae50bc7d/ansible-2.3.3.0.tar.gz"
+            }
+        ],
+        "2.4.0.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "d2e26bd7ee82b9cdbd5cae589abb259a",
+                    "sha256": "1a276fee7f72d4e6601a7994879e8467edb763dacc3e215258cfe71350b77c76"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.4.0.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "d2e26bd7ee82b9cdbd5cae589abb259a",
+                "packagetype": "sdist",
+                "path": "1e/7c/385ccbeb0fbefc13eaef53df76e42ef778170bdfe5fd425879735b43106e/ansible-2.4.0.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "1a276fee7f72d4e6601a7994879e8467edb763dacc3e215258cfe71350b77c76",
+                "size": 6623856,
+                "upload_time": "2017-09-19T02:57:56",
+                "url": "https://pypi.python.org/packages/1e/7c/385ccbeb0fbefc13eaef53df76e42ef778170bdfe5fd425879735b43106e/ansible-2.4.0.0.tar.gz"
+            }
+        ],
+        "2.4.1.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "5813d8f973f60ea06b410ccc73c98749",
+                    "sha256": "da61afb29cc5bd6bc4737a2da06e673fb6fccc3ae2685130d19ab3a8e404fb6a"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.4.1.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "5813d8f973f60ea06b410ccc73c98749",
+                "packagetype": "sdist",
+                "path": "1a/53/6d6c0d46a8e6f6da7826eb57c1c755d183b2a766dd275e493daa447c6d8b/ansible-2.4.1.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "da61afb29cc5bd6bc4737a2da06e673fb6fccc3ae2685130d19ab3a8e404fb6a",
+                "size": 6675552,
+                "upload_time": "2017-10-25T23:05:35",
+                "url": "https://pypi.python.org/packages/1a/53/6d6c0d46a8e6f6da7826eb57c1c755d183b2a766dd275e493daa447c6d8b/ansible-2.4.1.0.tar.gz"
+            }
+        ],
+        "2.4.2.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "88240a923505d604bd7a4fb91d7721e8",
+                    "sha256": "315f1580b20bbc2c2f1104f8b5e548c6b4cac943b88711639c5e0d4dfc4d7658"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.4.2.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "88240a923505d604bd7a4fb91d7721e8",
+                "packagetype": "sdist",
+                "path": "4f/65/ae3ad8589c38f9e04ebc8a824c2880eb4f9e603a1f62b5f5a3f938e524b0/ansible-2.4.2.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "315f1580b20bbc2c2f1104f8b5e548c6b4cac943b88711639c5e0d4dfc4d7658",
+                "size": 6503595,
+                "upload_time": "2017-11-29T21:09:09",
+                "url": "https://pypi.python.org/packages/4f/65/ae3ad8589c38f9e04ebc8a824c2880eb4f9e603a1f62b5f5a3f938e524b0/ansible-2.4.2.0.tar.gz"
+            }
+        ],
+        "2.4.3.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "809c90ad435bab3315d2c12fc72c9e68",
+                    "sha256": "0e98b3a56928d03979d5f8e7ae5d8e326939111b298729b03f00b3ad8f998a3d"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.4.3.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "809c90ad435bab3315d2c12fc72c9e68",
+                "packagetype": "sdist",
+                "path": "ed/84/09e8dd117081db2077cf08dbd670a3454ab0265b05e8e7f75482492b46f0/ansible-2.4.3.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "0e98b3a56928d03979d5f8e7ae5d8e326939111b298729b03f00b3ad8f998a3d",
+                "size": 6511115,
+                "upload_time": "2018-01-31T23:11:09",
+                "url": "https://pypi.python.org/packages/ed/84/09e8dd117081db2077cf08dbd670a3454ab0265b05e8e7f75482492b46f0/ansible-2.4.3.0.tar.gz"
+            }
+        ],
+        "2.5.0": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "f1b946b347554cebb8025487ab865826",
+                    "sha256": "74bb063322372fc9e2a84bbe562ab5d1b45a2fba3ec609c03d824758e6dd9c38"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0-py2.py3-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "f1b946b347554cebb8025487ab865826",
+                "packagetype": "bdist_wheel",
+                "path": "07/81/e70df93295b2935fb27d738a2f7529bcca10204bfed043f80c57f6a8df58/ansible-2.5.0-py2.py3-none-any.whl",
+                "python_version": "2.7",
+                "sha256_digest": "74bb063322372fc9e2a84bbe562ab5d1b45a2fba3ec609c03d824758e6dd9c38",
+                "size": 7345336,
+                "upload_time": "2018-03-23T00:55:23",
+                "url": "https://pypi.python.org/packages/07/81/e70df93295b2935fb27d738a2f7529bcca10204bfed043f80c57f6a8df58/ansible-2.5.0-py2.py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "8b8aa6eabb86ccb60bd6177070591719",
+                    "sha256": "714ede4b0f5455eb2dd2536d8cabb42ab439f52b5ac902308ad027b46f68e6dc"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "8b8aa6eabb86ccb60bd6177070591719",
+                "packagetype": "sdist",
+                "path": "4a/3b/9d98e132074bb6a3f18fd811db2819fbde6fc8a26fad9a40b49e53cb2455/ansible-2.5.0.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "714ede4b0f5455eb2dd2536d8cabb42ab439f52b5ac902308ad027b46f68e6dc",
+                "size": 10073927,
+                "upload_time": "2018-03-23T00:55:17",
+                "url": "https://pypi.python.org/packages/4a/3b/9d98e132074bb6a3f18fd811db2819fbde6fc8a26fad9a40b49e53cb2455/ansible-2.5.0.tar.gz"
+            }
+        ],
+        "2.5.0a1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "7f0f76c1717af26f7053caf1e3f7c879",
+                    "sha256": "017ee05909680321cd6e302f24cc91e6bfbb8063880258c88c00f694737fd6f4"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0a1-py2-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "7f0f76c1717af26f7053caf1e3f7c879",
+                "packagetype": "bdist_wheel",
+                "path": "ff/8b/75b34e2bd1bac5109c63a44a99f36bcb3acfec95e2955074ac713337b6b2/ansible-2.5.0a1-py2-none-any.whl",
+                "python_version": "2.7",
+                "sha256_digest": "017ee05909680321cd6e302f24cc91e6bfbb8063880258c88c00f694737fd6f4",
+                "size": 7152493,
+                "upload_time": "2018-02-02T03:13:54",
+                "url": "https://pypi.python.org/packages/ff/8b/75b34e2bd1bac5109c63a44a99f36bcb3acfec95e2955074ac713337b6b2/ansible-2.5.0a1-py2-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "c710562fd469ee2c400bef39f0a22d3f",
+                    "sha256": "629db1896086495a82a13e72078d7f1dc4f518d2c6af682d1cff6520e1c506c7"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0a1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "c710562fd469ee2c400bef39f0a22d3f",
+                "packagetype": "sdist",
+                "path": "1b/15/9d86272cb939f03502cbc0ca441152b107e6b50dc03429f46b25dc3405a5/ansible-2.5.0a1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "629db1896086495a82a13e72078d7f1dc4f518d2c6af682d1cff6520e1c506c7",
+                "size": 7511926,
+                "upload_time": "2018-02-02T03:13:48",
+                "url": "https://pypi.python.org/packages/1b/15/9d86272cb939f03502cbc0ca441152b107e6b50dc03429f46b25dc3405a5/ansible-2.5.0a1.tar.gz"
+            }
+        ],
+        "2.5.0b1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "1e1c288e1e1189c5ea1082690b44174c",
+                    "sha256": "c48f8312b002457bef25bbd1831796e8030de21fd6e37a8023cfa05277b17fea"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0b1-py2.py3-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "1e1c288e1e1189c5ea1082690b44174c",
+                "packagetype": "bdist_wheel",
+                "path": "bc/af/fd4f56403ba80d2001d50491df317acc0931ed307d8647f508f4ac482a9d/ansible-2.5.0b1-py2.py3-none-any.whl",
+                "python_version": "2.7",
+                "sha256_digest": "c48f8312b002457bef25bbd1831796e8030de21fd6e37a8023cfa05277b17fea",
+                "size": 7336103,
+                "upload_time": "2018-02-09T02:53:41",
+                "url": "https://pypi.python.org/packages/bc/af/fd4f56403ba80d2001d50491df317acc0931ed307d8647f508f4ac482a9d/ansible-2.5.0b1-py2.py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "43421fc2f75d2156852f8232165951a7",
+                    "sha256": "658166a5c5218464a775c4c9ddfe9e5f0971225d001f618df0aadf2e24fb9602"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0b1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "43421fc2f75d2156852f8232165951a7",
+                "packagetype": "sdist",
+                "path": "6a/c6/799f517b9e934959047b5028e6fc574e537fcd338f454c6d4d9c0f2f6560/ansible-2.5.0b1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "658166a5c5218464a775c4c9ddfe9e5f0971225d001f618df0aadf2e24fb9602",
+                "size": 7640048,
+                "upload_time": "2018-02-09T02:53:38",
+                "url": "https://pypi.python.org/packages/6a/c6/799f517b9e934959047b5028e6fc574e537fcd338f454c6d4d9c0f2f6560/ansible-2.5.0b1.tar.gz"
+            }
+        ],
+        "2.5.0b2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "7b3370a98bb535bf0288dced1ab9dbae",
+                    "sha256": "325af7e9560b30f5d01d093b01045379fa1dee41e30a219f306726c33b85e64f"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0b2-py2.py3-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "7b3370a98bb535bf0288dced1ab9dbae",
+                "packagetype": "bdist_wheel",
+                "path": "6a/49/e1890d47af33c9d49955c56f57e4dfa820bb3cf85d7092e1117c679a3980/ansible-2.5.0b2-py2.py3-none-any.whl",
+                "python_version": "2.7",
+                "sha256_digest": "325af7e9560b30f5d01d093b01045379fa1dee41e30a219f306726c33b85e64f",
+                "size": 7337888,
+                "upload_time": "2018-02-16T09:24:07",
+                "url": "https://pypi.python.org/packages/6a/49/e1890d47af33c9d49955c56f57e4dfa820bb3cf85d7092e1117c679a3980/ansible-2.5.0b2-py2.py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "137b519ef904d779a03fbe6f66021a1b",
+                    "sha256": "e12eb3d43bc7f7fda446af1a1c915199fdd7a70c683abbad9f863367bf72c51f"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0b2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "137b519ef904d779a03fbe6f66021a1b",
+                "packagetype": "sdist",
+                "path": "47/56/c222258d86c013f332ec68ac0b30c0891a3826acc44b2a569a9cbd28efe1/ansible-2.5.0b2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "e12eb3d43bc7f7fda446af1a1c915199fdd7a70c683abbad9f863367bf72c51f",
+                "size": 10030002,
+                "upload_time": "2018-02-16T09:23:59",
+                "url": "https://pypi.python.org/packages/47/56/c222258d86c013f332ec68ac0b30c0891a3826acc44b2a569a9cbd28efe1/ansible-2.5.0b2.tar.gz"
+            }
+        ],
+        "2.5.0rc1": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "f2286d9482da480b5bc4fa4e8bb276cd",
+                    "sha256": "9e64bcc2a5f43976b3378ff38efcf14cc40c6220eb0be58f055815a358f398b2"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0rc1-py2.py3-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "f2286d9482da480b5bc4fa4e8bb276cd",
+                "packagetype": "bdist_wheel",
+                "path": "60/8f/814d7f1aaad3db09b08f12774de3d39a0645f3fdd3d2e1d4970fe0a3fae8/ansible-2.5.0rc1-py2.py3-none-any.whl",
+                "python_version": "2.7",
+                "sha256_digest": "9e64bcc2a5f43976b3378ff38efcf14cc40c6220eb0be58f055815a358f398b2",
+                "size": 7336132,
+                "upload_time": "2018-02-23T01:51:36",
+                "url": "https://pypi.python.org/packages/60/8f/814d7f1aaad3db09b08f12774de3d39a0645f3fdd3d2e1d4970fe0a3fae8/ansible-2.5.0rc1-py2.py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "d5ba0996c610c86dba5faebedbe9d8ac",
+                    "sha256": "936e4f4619e243182462973a6a091f14d5032e081ad13f4251b96e59761fca7f"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0rc1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "d5ba0996c610c86dba5faebedbe9d8ac",
+                "packagetype": "sdist",
+                "path": "20/8a/2d100a9e92105141f55fb54c5829149f87b32c492d51bac943bfef909278/ansible-2.5.0rc1.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "936e4f4619e243182462973a6a091f14d5032e081ad13f4251b96e59761fca7f",
+                "size": 10046638,
+                "upload_time": "2018-02-23T01:51:30",
+                "url": "https://pypi.python.org/packages/20/8a/2d100a9e92105141f55fb54c5829149f87b32c492d51bac943bfef909278/ansible-2.5.0rc1.tar.gz"
+            }
+        ],
+        "2.5.0rc2": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "ad5c694de818d6329ad771d4ae2f3ec9",
+                    "sha256": "8a7d67e12583412f81dfc2fe355a8eae55d865c9d97eaa7024dd9a68c7dd123d"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0rc2-py2.py3-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "ad5c694de818d6329ad771d4ae2f3ec9",
+                "packagetype": "bdist_wheel",
+                "path": "74/3d/8c66f25e24d2855216ccb9a4f6804d94e77a3afb6d6037011310bfeadad6/ansible-2.5.0rc2-py2.py3-none-any.whl",
+                "python_version": "2.7",
+                "sha256_digest": "8a7d67e12583412f81dfc2fe355a8eae55d865c9d97eaa7024dd9a68c7dd123d",
+                "size": 7343717,
+                "upload_time": "2018-03-09T07:48:05",
+                "url": "https://pypi.python.org/packages/74/3d/8c66f25e24d2855216ccb9a4f6804d94e77a3afb6d6037011310bfeadad6/ansible-2.5.0rc2-py2.py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "7655c9d447109c2fb0c9e6439e24d844",
+                    "sha256": "609066a807778228b4c3cb1b5f121c7d29d3abbf060079de65e434a9896f3efd"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0rc2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "7655c9d447109c2fb0c9e6439e24d844",
+                "packagetype": "sdist",
+                "path": "8c/f3/ee7b5612f13989216c0f64995e2a8542b0db0d2a95230edeff2b2722044c/ansible-2.5.0rc2.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "609066a807778228b4c3cb1b5f121c7d29d3abbf060079de65e434a9896f3efd",
+                "size": 10063524,
+                "upload_time": "2018-03-09T07:48:00",
+                "url": "https://pypi.python.org/packages/8c/f3/ee7b5612f13989216c0f64995e2a8542b0db0d2a95230edeff2b2722044c/ansible-2.5.0rc2.tar.gz"
+            }
+        ],
+        "2.5.0rc3": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "ce4b766969b72e0aeb2bf36567c382fb",
+                    "sha256": "2aec7e7b2cea845a08c0eace09fd2d7476d7e5b96123454c634bd4ab885808bb"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0rc3-py2.py3-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "ce4b766969b72e0aeb2bf36567c382fb",
+                "packagetype": "bdist_wheel",
+                "path": "4d/6a/8b583c1918d84e4b6d47f60472cc78f5b4bf3e5255b551a9c4ea5126c48c/ansible-2.5.0rc3-py2.py3-none-any.whl",
+                "python_version": "2.7",
+                "sha256_digest": "2aec7e7b2cea845a08c0eace09fd2d7476d7e5b96123454c634bd4ab885808bb",
+                "size": 7345443,
+                "upload_time": "2018-03-16T01:23:37",
+                "url": "https://pypi.python.org/packages/4d/6a/8b583c1918d84e4b6d47f60472cc78f5b4bf3e5255b551a9c4ea5126c48c/ansible-2.5.0rc3-py2.py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "747307e19a8cb35e9d047031ff6db6ca",
+                    "sha256": "0fde8eb02a34ba1936a52da423d339ac9bded6aeac8d13d90f1f0be812c5b877"
+                },
+                "downloads": 0,
+                "filename": "ansible-2.5.0rc3.tar.gz",
+                "has_sig": false,
+                "md5_digest": "747307e19a8cb35e9d047031ff6db6ca",
+                "packagetype": "sdist",
+                "path": "66/38/ca216c18e8ba441ad428aee9e4e96e7a755e31f26dd5c4f34feab0d89295/ansible-2.5.0rc3.tar.gz",
+                "python_version": "source",
+                "sha256_digest": "0fde8eb02a34ba1936a52da423d339ac9bded6aeac8d13d90f1f0be812c5b877",
+                "size": 10064256,
+                "upload_time": "2018-03-16T01:23:32",
+                "url": "https://pypi.python.org/packages/66/38/ca216c18e8ba441ad428aee9e4e96e7a755e31f26dd5c4f34feab0d89295/ansible-2.5.0rc3.tar.gz"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "md5": "f1b946b347554cebb8025487ab865826",
+                "sha256": "74bb063322372fc9e2a84bbe562ab5d1b45a2fba3ec609c03d824758e6dd9c38"
+            },
+            "downloads": 0,
+            "filename": "ansible-2.5.0-py2.py3-none-any.whl",
+            "has_sig": false,
+            "md5_digest": "f1b946b347554cebb8025487ab865826",
+            "packagetype": "bdist_wheel",
+            "path": "07/81/e70df93295b2935fb27d738a2f7529bcca10204bfed043f80c57f6a8df58/ansible-2.5.0-py2.py3-none-any.whl",
+            "python_version": "2.7",
+            "sha256_digest": "74bb063322372fc9e2a84bbe562ab5d1b45a2fba3ec609c03d824758e6dd9c38",
+            "size": 7345336,
+            "upload_time": "2018-03-23T00:55:23",
+            "url": "https://pypi.python.org/packages/07/81/e70df93295b2935fb27d738a2f7529bcca10204bfed043f80c57f6a8df58/ansible-2.5.0-py2.py3-none-any.whl"
+        },
+        {
+            "comment_text": "",
+            "digests": {
+                "md5": "8b8aa6eabb86ccb60bd6177070591719",
+                "sha256": "714ede4b0f5455eb2dd2536d8cabb42ab439f52b5ac902308ad027b46f68e6dc"
+            },
+            "downloads": 0,
+            "filename": "ansible-2.5.0.tar.gz",
+            "has_sig": false,
+            "md5_digest": "8b8aa6eabb86ccb60bd6177070591719",
+            "packagetype": "sdist",
+            "path": "4a/3b/9d98e132074bb6a3f18fd811db2819fbde6fc8a26fad9a40b49e53cb2455/ansible-2.5.0.tar.gz",
+            "python_version": "source",
+            "sha256_digest": "714ede4b0f5455eb2dd2536d8cabb42ab439f52b5ac902308ad027b46f68e6dc",
+            "size": 10073927,
+            "upload_time": "2018-03-23T00:55:17",
+            "url": "https://pypi.python.org/packages/4a/3b/9d98e132074bb6a3f18fd811db2819fbde6fc8a26fad9a40b49e53cb2455/ansible-2.5.0.tar.gz"
+        }
+    ]
+}
